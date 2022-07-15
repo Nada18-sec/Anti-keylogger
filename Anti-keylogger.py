@@ -8,7 +8,7 @@
 # pip install PySimpleGUI
 # pip install PyFiglet
 # pip install tqdm
-# python DMIAntiKeylogger.py
+# python AntiKeylogger.py
 
 
 import json
